@@ -2,4 +2,17 @@
 
 ------------Canlı-------------
 
+#EXTINF:-1 tvg-id="Live4.tr" tvg-logo="" group-title="Live",mach1
+http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
+#EXTINF:-1 tvg-id="Live5.tr" tvg-logo="" group-title="Live",mach1
+http://77.235.1.19:8000/play/a002/index.m3u8
 
+#EXTINF:-1 tvg-id="Live6.tr" tvg-logo="" group-title="Live",mach2
+http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
+#EXTINF:-1 tvg-id="Live7.tr" tvg-logo="" group-title="Live",mach2
+http://77.235.1.19:8000/play/a003/index.m3u8
+
+#EXTINF:-1 tvg-id="Live8.tr" tvg-logo="" group-title="Live",mach3
+http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
+#EXTINF:-1 tvg-id="Live9.tr" tvg-logo="" group-title="Live",mach3
+http://185.57.68.33/110/mpegts
