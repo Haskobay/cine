@@ -1,20 +1,11 @@
 #EXTM3U
-
-------------Canlı-------------
+#EXTINF:-1 tvg-id="Live.tr" tvg-logo="" group-title="LIVE",Live1
 https://raw.githubusercontent.com/Haskobay/tecotv/refs/heads/main/playlist/24_Tv.m3u8
-
+#EXTINF:-1 tvg-id="Live.tr" tvg-logo="" group-title="LIVE",Live2
 https://raw.githubusercontent.com/Haskobay/tecotv/refs/heads/main/playlist/Bloomberg_Ht.m3u8
 
 
-#EXTINF:-1 tvg-id="Live.tr" tvg-logo="" group-title="LIVE",Live1
-https://www.youtube.com/live/FbIZTp3nbmg?si=lxlTmrdwSyY-pWeh
 
-#EXTINF:-1 tvg-id="Live.tr" tvg-logo="" group-title="LIVE",Live2
-https://www.youtube.com/live/ydHCqY5LX10?si=rUODeYwcqo4ai4dI
-
-
-#EXTINF:-1 tvg-id="Live.tr" tvg-logo="" group-title="LIVE",Live3
-https://www.youtube.com/live/_YoskxfvFHw?si=clSowzDSigIdVTwH
 
 
 
