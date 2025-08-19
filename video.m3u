@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Film.tr" tvg-logo="" group-title="Film",Film1
+https://goldvod.org/tv/vavoo?id=194974260303321378958f
+
+#EXTINF:-1 tvg-id="Film.tr" tvg-logo="" group-title="Film",Film2
+https://goldvod.org/tv/vavoo?id=194974260303321378958f?extension=m3u8
+
+#EXTINF:-1 tvg-id="Film.tr" tvg-logo="" group-title="Film",Film3
+https://goldvod.org/tv/vavoo?id=194974260303321378958f&extension=m3u8
+
+#EXTINF:-1 tvg-id="Film.tr" tvg-logo="" group-title="Film",Film4
+https://goldvod.org/tv/vavoo?id=194974260303321378958f?index=m3u8
+
+#EXTINF:-1 tvg-id="Film.tr" tvg-logo="" group-title="Film",Film5
+https://goldvod.org/tv/vavoo?id=194974260303321378958f&index=m3u8
+
+#EXTINF:-1 tvg-id="Film.tr" tvg-logo="" group-title="Film",Film6
+https://goldvod.org/tv/vavoo?id=194974260303321378958f?index=m3u
+
+#EXTINF:-1 tvg-id="Film.tr" tvg-logo="" group-title="Film",Film7
+https://goldvod.org/tv/vavoo?id=194974260303321378958f&index=m3u
+
+
+
+
+
+
+
+
+
+
 
 
 
