@@ -1,8 +1,86 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Live.tr" tvg-logo="" group-title="LIVE",Live1
-https://raw.githubusercontent.com/Haskobay/tecotv/refs/heads/main/playlist/24_Tv.m3u8
-#EXTINF:-1 tvg-id="Live.tr" tvg-logo="" group-title="LIVE",Live2
-https://raw.githubusercontent.com/Haskobay/tecotv/refs/heads/main/playlist/Bloomberg_Ht.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="Dizi.tr" tvg-logo="" group-title="Dizi",Bolum1
+https://3uho6lzsf1c2o3i8oun9.streamruby.net/hls2/03/00295/y5nvxxispcek_h/index-v1-a1.m3u8?t=_i6FfivBFUYNYiwR4B1ueVckvZ8ef28FT_VqsQ57F9A&s=1755623228&e=32400&v=891174499&i=176.240&sp=0
+#EXTINF:-1 tvg-id="Dizi.tr" tvg-logo="" group-title="Dizi",Bolum2
+https://36x8fqcfqsv376o2c3bj.streamruby.net/hls2/02/00295/26eol406if2y_h/index-v1-a1.m3u8?t=2O7QdH3NiX_teItUb22tUyMaiqaR-7_nyXn8Eb7aFTc&s=1755623440&e=32400&v=891188338&i=176.240&sp=0
+#EXTINF:-1 tvg-id="Dizi.tr" tvg-logo="" group-title="Dizi",Bolum3
+https://ozovxg2t3b2c8m8g.streamruby.net/hls2/02/00295/eurpb8nr98s1_h/index-v1-a1.m3u8?t=gv542GHLmU5GifhmMjR10kcdoApiGdq6IrKq4wqrzhw&s=1755623503&e=32400&v=891192486&i=176.240&sp=0
+#EXTINF:-1 tvg-id="Dizi.tr" tvg-logo="" group-title="Dizi",Bolum4
+https://ucxipzwkyhms02.streamruby.net/hls2/01/00295/qegth9pwnke6_h/index-v1-a1.m3u8?t=abNgIRzjsQuur4t8_dgMyWivNfHohb5FsJ9s9dwWI00&s=1755623560&e=32400&v=891196266&i=176.240&sp=0
+#EXTINF:-1 tvg-id="Dizi.tr" tvg-logo="" group-title="Dizi",Bolum5
+https://36x8fqcfqsv376o2c3bj.streamruby.net/hls2/03/00295/bvvoj6q00kko_h/index-v1-a1.m3u8?t=X8E8v22ONKzvtluNBk4MRvKLRumXIrmosEGetvmCzNE&s=1755623615&e=32400&v=891199806&i=176.240&sp=0
+#EXTINF:-1 tvg-id="Dizi.tr" tvg-logo="" group-title="Dizi",Bolum6
+https://ozovxg2t3b2c8m8g.streamruby.net/hls2/04/00295/sip5jc1992sd_h/index-v1-a1.m3u8?t=bXvJfNGopptQyUsT-QOv-H2MvAZbROYMG5jyUkrQKsM&s=1755623728&e=32400&v=891207032&i=176.240&sp=0
+#EXTINF:-1 tvg-id="Dizi.tr" tvg-logo="" group-title="Dizi",Bolum7
+https://3uho6lzsf1c2o3i8oun9.streamruby.net/hls2/03/00295/v25lnel1zb62_h/index-v1-a1.m3u8?t=gbYCBUHxb8ML02hTuVJgWewoFd8ewHRNTjaeMLjjXvY&s=1755623842&e=32400&v=891214517&i=176.240&sp=0
+#EXTINF:-1 tvg-id="Dizi.tr" tvg-logo="" group-title="Dizi",Bolum8
+https://ozovxg2t3b2c8m8g.streamruby.net/hls2/03/00295/ps1fk83172mh_h/index-v1-a1.m3u8?t=7BKse-LYGaP7bRJ62hRqTez7eikYq5CX3CIDFbYfPMA&s=1755623897&e=32400&v=891217989&i=176.240&sp=0
+
+
+
+
+#EXTINF:-1 tvg-id="Film.tr" tvg-logo="" group-title="Film",Film1
+https://fxcdndx.top/pix21/output.m3u8
+
+#EXTINF:-1 tvg-id="Film.tr" tvg-logo="" group-title="Film",Film2
+https://tmstr1.shadowlandschronicles.com/pl/H4sIAAAAAAAAAwXBYXeCIBQA0L8EaCv3dRM9ljiQB8o36dFxap02Pa349bv3st8f0gsddgdyISkG9hYyHzBJUzYQeji_28n9nuNyhMTdGpuVYJ9FAIwqv.dmrhLscMNC9Mco7sNMmWQCcM44wNjJV1apdqU.h2ef9Km_5S9NRpBkrPzH5sJs1sauzDGhm_y.DguXZu6jjrzxnbHWGGkWFcMirjUIOkyO1az6lNFpXdAfH.GhmCi9xddA1OqYci2IyVkaEZYGSvOoZ3dCGL9PkSd.ypNeyxStuGO7kfOs.n7ii_lUkyHbTuWuaQ1uxsq_thB86DCabmw1dzYU9IHXXRlg.aopipZjITXJ_gETNQ21QQEAAA--/d6f0e96cbc66ebb4e86f85b43bd34f7e/index.m3u8
+
+#EXTINF:-1 tvg-id="Film.tr" tvg-logo="" group-title="Film",Film3
+https://qdihmnfwepxni.ovaltinecdn.com/hls2/01/06050/8ggg4xvhdbk7_,l,n,.urlset/index-f2-v1-a1.m3u8?t=FM2wRlMVTXIV-4n21znzpg0WpPtmUQF5Ga80j4lfMLU&s=1755621574&e=129600&f=30250809&srv=MBiNVlIEzXdC&i=0.4&sp=500&p1=MBiNVlIEzXdC&p2=MBiNVlIEzXdC&asn=47524
+
+
+
+#EXTINF:-1 tvg-id="Film.tr" tvg-logo="" group-title="Film",Film4
+https://ff8nf42b8jvmj4a.ovaltinecdn.com/hls2/01/06061/d9e0t8laqx1w_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=gCk4qO48KutTysw6yCjQp4oet56v-IMIQo3px1qlgLA&s=1755621639&e=129600&f=30305571&srv=evk3uQx6LGYKVlI&i=0.4&sp=500&p1=evk3uQx6LGYKVlI&p2=evk3uQx6LGYKVlI&asn=47524
+
+#EXTINF:-1 tvg-id="Film.tr" tvg-logo="" group-title="Film",Film5
+https://qdihmnfwepxni.ovaltinecdn.com/hls2/01/06064/mmawa8yk7rj5_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=rMUCTNCeJM8vV9hSBukJfaWtH_uek16vDRD3BR3Jq4Q&s=1755621614&e=129600&f=30320810&srv=Rh1wiaqeKw22&i=0.4&sp=500&p1=Rh1wiaqeKw22&p2=Rh1wiaqeKw22&asn=47524
+
+
+#EXTINF:-1 tvg-id="Film.tr" tvg-logo="" group-title="Film",Film6
+https://qdihmnfwepxni.ovaltinecdn.com/hls2/01/06064/jy7ps9le2ivl_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=FKn1L6futU1jf_AY0oyxXmLhJdyF9FUtMxC7Hen6RUQ&s=1755619456&e=129600&f=30320791&srv=ogwjrJvVKZ9R&i=0.4&sp=500&p1=ogwjrJvVKZ9R&p2=ogwjrJvVKZ9R&asn=47524
+
+#EXTINF:-1 tvg-id="Film.tr" tvg-logo="" group-title="Film",Film7
+https://hgc0uswxhnn8.ovaltinecdn.com/hls2/01/01703/f2tu0p247xqg_,l,n,.urlset/index-f2-v1-a1.m3u8?t=V_jTMF67IsOPFV5yKqCo1uSi_JF95qw_UpPT0uXswUc&s=1755619521&e=129600&f=8516485&srv=Hp2hjeW6LONm&i=0.4&sp=500&p1=Hp2hjeW6LONm&p2=Hp2hjeW6LONm&asn=47524
+
+
+
+#EXTINF:-1 tvg-id="Film.tr" tvg-logo="" group-title="Film",Film8
+https://etojdo3yv1iw.ovaltinecdn.com/hls2/01/06111/4b2iu7b85ajb_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=uC8tKI54AUA56FTbuuSYj3HhLnT1VpoKydlFN4wAqIU&s=1755619701&e=129600&f=30558491&srv=uJpHw5GT5Dzj&i=0.4&sp=500&p1=uJpHw5GT5Dzj&p2=uJpHw5GT5Dzj&asn=47524
+
+
+#EXTINF:-1 tvg-id="Film.tr" tvg-logo="" group-title="Film",Film9
+https://hgc0uswxhnn8.ovaltinecdn.com/hls2/01/06042/mnzxu17qexag_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=FskczJQYcBA5tEKFSFFFdg8ghB68EDhRU3tTwt_nVNY&s=1755621687&e=129600&f=30214631&srv=TYqSrHbhTg8V&i=0.4&sp=500&p1=TYqSrHbhTg8V&p2=TYqSrHbhTg8V&asn=47524
+
+#EXTINF:-1 tvg-id="Film.tr" tvg-logo="" group-title="Film",Film10
+https://p3fabiwmf23za.acek-cdn.com/hls2/01/06014/twui6a8lm6nt_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=l5GI3r11AeAFdhkF_DHj-WaMCmHCrjyjIFAwKoAJvhU&s=1755621884&e=129600&f=30074787&srv=lhgg0pb6qN7Rp&i=0.4&sp=500&p1=lhgg0pb6qN7Rp&p2=lhgg0pb6qN7Rp&asn=47524
+
+#EXTINF:-1 tvg-id="Film.tr" tvg-logo="" group-title="Film",Film11
+https://m5qqjwpatpzb.acek-cdn.com/hls2/01/06014/prtxbedia2pk_,l,n,.urlset/index-f2-v1-a1.m3u8?t=tHHbSnCtjGNSq0d04tircf0oHsDqsTotptQqmXMak7w&s=1755621892&e=129600&f=30074767&srv=FJO3a20r7Uaq&i=0.4&sp=500&p1=FJO3a20r7Uaq&p2=FJO3a20r7Uaq&asn=47524
+
+#EXTINF:-1 tvg-id="Film.tr" tvg-logo="" group-title="Film",Film12
+https://u9c5uk5tce8qsjq.acek-cdn.com/hls2/01/05986/9hk8kmp1radl_,l,n,.urlset/index-f2-v1-a1.m3u8?t=5uAxDpja8rIhWTPNNBmhFtxxvzlfHSX7JupyOJ4ZsKU&s=1755621914&e=129600&f=29933157&srv=CYlXNeMTiYtf&i=0.4&sp=500&p1=CYlXNeMTiYtf&p2=CYlXNeMTiYtf&asn=47524
+
+#EXTINF:-1 tvg-id="Film.tr" tvg-logo="" group-title="Film",Film13
+https://o0qje32q6j2zjwd.ovaltinecdn.com/hls2/01/05978/t73gapmn3mb2_,l,n,.urlset/index-f2-v1-a1.m3u8?t=H0eISIxBXwXpnS59zZ--jv0EE0oTLyGIN4oJw38CWHY&s=1755621927&e=129600&f=29891559&srv=aC5L1iWqa8aN&i=0.4&sp=500&p1=aC5L1iWqa8aN&p2=aC5L1iWqa8aN&asn=47524
+
+
+#EXTINF:-1 tvg-id="Film.tr" tvg-logo="" group-title="Film",Film14
+https://jdou5wo6ffta.acek-cdn.com/hls2/01/05986/r5wn4r0wvx9k_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=v_7UC6kBBZsnSIXFDRgLnmjhoHS2g9joXjhQROPF5LA&s=1755621937&e=129600&f=29933249&srv=pgnp5flcy8ev&i=0.4&sp=500&p1=pgnp5flcy8ev&p2=pgnp5flcy8ev&asn=47524
+
+
+
+
+
+
+
+
+
+
 
 
 
