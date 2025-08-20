@@ -1,22 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Kabe
+http://104.238.23.215/yt.php?ID=UCqtGJe9AnRfq5wwjk27VsoQ
 
-#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Action
-http://104.238.23.215/iptv_panel/get.php?channel=Channel187&token=token123
+#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Medine
+http://104.238.23.215/yt.php?ID=UCfBw_uwZb_oFLyVsjWk6owQ
 
-#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",BilimKurgu
-http://104.238.23.215/iptv_panel/get.php?channel=Channel188&token=token123
+#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Newyork
+http://104.238.23.215/yt.php?ID=UC6qrG3W8SMK0jior2olka3g
 
-#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Dram
-http://104.238.23.215/iptv_panel/get.php?channel=Channel189&token=token123
+#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Relax
+http://104.238.23.215/yt.php?ID=UCpuuoKx5EgzHcFqmpWLkJeg
 
-#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Dram
-http://104.238.23.215/iptv_panel/get.php?channel=Channel190&token=token123
+#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Miami
+http://104.238.23.215/yt.php?ID=UCkRVjXvVmHclgutc2p07uGA
 
-#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Fantastic
-http://104.238.23.215/iptv_panel/get.php?channel=Channel191&token=token123
+#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Hawaii
+http://104.238.23.215/yt.php?ID=UCkRVjXvVmHclgutc2p07uGA
 
-#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Korku
-http://104.238.23.215/iptv_panel/get.php?channel=Channel192&token=token123
-
-#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Box Action
-http://104.238.23.215/iptv_panel/get.php?channel=Channel197&token=token123
+#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Beach
+http://104.238.23.215/yt.php?ID=UC1rJC1fTt_vQV_nLhNdXVwg
