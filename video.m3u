@@ -1,34 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Film.tr" tvg-logo="" group-title="Film",Film1
-https://goldvod.org/tv/vavoo?id=194974260303321378958f
 
-#EXTINF:-1 tvg-id="Film.tr" tvg-logo="" group-title="Film",Film2
-https://goldvod.org/tv/vavoo?id=194974260303321378958f?extension=m3u8
+#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Action
+http://104.238.23.215/iptv_panel/get.php?channel=Channel187&token=token123
 
-#EXTINF:-1 tvg-id="Film.tr" tvg-logo="" group-title="Film",Film3
-https://goldvod.org/tv/vavoo?id=194974260303321378958f&extension=m3u8
+#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",BilimKurgu
+http://104.238.23.215/iptv_panel/get.php?channel=Channel188&token=token123
 
-#EXTINF:-1 tvg-id="Film.tr" tvg-logo="" group-title="Film",Film4
-https://goldvod.org/tv/vavoo?id=194974260303321378958f?index=m3u8
+#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Dram
+http://104.238.23.215/iptv_panel/get.php?channel=Channel189&token=token123
 
-#EXTINF:-1 tvg-id="Film.tr" tvg-logo="" group-title="Film",Film5
-https://goldvod.org/tv/vavoo?id=194974260303321378958f&index=m3u8
+#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Dram
+http://104.238.23.215/iptv_panel/get.php?channel=Channel190&token=token123
 
-#EXTINF:-1 tvg-id="Film.tr" tvg-logo="" group-title="Film",Film6
-https://goldvod.org/tv/vavoo?id=194974260303321378958f?index=m3u
+#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Fantastic
+http://104.238.23.215/iptv_panel/get.php?channel=Channel191&token=token123
 
-#EXTINF:-1 tvg-id="Film.tr" tvg-logo="" group-title="Film",Film7
-https://goldvod.org/tv/vavoo?id=194974260303321378958f&index=m3u
+#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Korku
+http://104.238.23.215/iptv_panel/get.php?channel=Channel192&token=token123
 
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Box Action
+http://104.238.23.215/iptv_panel/get.php?channel=Channel197&token=token123
