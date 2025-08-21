@@ -1,21 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Kabe
-http://104.238.23.215/yt.php?ID=UCqtGJe9AnRfq5wwjk27VsoQ
+#EXTINF:-1 tvg-id="Live" tvg-name="" tvg-logo="" group-title="Live",PlenataHD
+https://goldvod.org/tv/seirsanduk?id=planeta-hd
 
-#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Medine
-http://104.238.23.215/yt.php?ID=UCfBw_uwZb_oFLyVsjWk6owQ
+#EXTINF:-1 tvg-id="Live" tvg-name="" tvg-logo="" group-title="Live",24Kitchen
+https://goldvod.org/tv/seirsanduk?id=24-kitchen-hd
 
-#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Newyork
-http://104.238.23.215/yt.php?ID=UC6qrG3W8SMK0jior2olka3g
+#EXTINF:-1 tvg-id="Live" tvg-name="" tvg-logo="" group-title="Live",FoodNetwork
+https://goldvod.org/tv/seirsanduk?id=food-network-hd
 
-#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Relax
-http://104.238.23.215/yt.php?ID=UCpuuoKx5EgzHcFqmpWLkJeg
+#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Live",CodeFashion
+https://goldvod.org/tv/seirsanduk?id=code-fashion-tv-hd
 
-#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Miami
-http://104.238.23.215/yt.php?ID=UCkRVjXvVmHclgutc2p07uGA
+#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Diema
+https://goldvod.org/tv/seirsanduk?id=diema
 
-#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Hawaii
-http://104.238.23.215/yt.php?ID=UCkRVjXvVmHclgutc2p07uGA
+#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Nova
+https://goldvod.org/tv/seirsanduk?id=nova-tv-hd
 
-#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Beach
-http://104.238.23.215/yt.php?ID=UC1rJC1fTt_vQV_nLhNdXVwg
+#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",CityTV
+https://goldvod.org/tv/seirsanduk?id=city-tv
+
+
+
+
