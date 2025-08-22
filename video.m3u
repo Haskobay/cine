@@ -1,24 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Live" tvg-name="" tvg-logo="" group-title="Live",PlenataHD
-https://goldvod.org/tv/seirsanduk?id=planeta-hd
+#EXTINF:-1 tvg-id="Live" tvg-name="" tvg-logo="" group-title="Live",24
+https://www.youtube-nocookie.com/embed/xbszsOFhi64
 
-#EXTINF:-1 tvg-id="Live" tvg-name="" tvg-logo="" group-title="Live",24Kitchen
-https://goldvod.org/tv/seirsanduk?id=24-kitchen-hd
+#EXTINF:-1 tvg-id="Live" tvg-name="" tvg-logo="" group-title="Live",Ahaber
+https://www.youtube-nocookie.com/embed/nmY9i63t6qo
 
-#EXTINF:-1 tvg-id="Live" tvg-name="" tvg-logo="" group-title="Live",FoodNetwork
-https://goldvod.org/tv/seirsanduk?id=food-network-hd
+#EXTINF:-1 tvg-id="Live" tvg-name="" tvg-logo="" group-title="Live",Anews
+https://www.youtube-nocookie.com/embed/L4O-IO_dySQ
 
-#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Live",CodeFashion
-https://goldvod.org/tv/seirsanduk?id=code-fashion-tv-hd
+#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Live",Hellotaste
+https://stream1.antenaplay.ro/live/HelloTaste/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Diema
-https://goldvod.org/tv/seirsanduk?id=diema
+#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",tastemadeaus
+https://tmint-aus-samsungau.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",Nova
-https://goldvod.org/tv/seirsanduk?id=nova-tv-hd
+#EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",tastemade
+https://tastemade-xumo.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="Sinema" tvg-name="" tvg-logo="" group-title="Sinema",CityTV
-https://goldvod.org/tv/seirsanduk?id=city-tv
+https://tv.city.bg/play/tshls/citytv/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
